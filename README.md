@@ -109,15 +109,15 @@ For a list of free machine learning books available for download, go [here](http
 ## C
 
 <a name="c-general-purpose" />
-#### General-Purpose Machine Learning
-* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+#### 通用机器学习 General-Purpose Machine Learning
+* [Recommender](https://github.com/GHamrouni/Recommender) - 基于协同过滤算法的 产品推荐 C语言库.
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 
 <a name="c-cv" />
-#### Computer Vision
+#### 计算机视觉 Computer Vision
 
-* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
+* [CCV](https://github.com/liuliu/ccv) - 基于C语言/提供缓存/核心的机器视觉库，新颖的机器视觉库。
 * [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox
 
 ### Speech Recognition
@@ -127,7 +127,7 @@ For a list of free machine learning books available for download, go [here](http
 ## C++
 
 <a name="cpp-cv" />
-#### Computer Vision
+#### 计算机视觉 Computer Vision
 
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
@@ -135,9 +135,9 @@ For a list of free machine learning books available for download, go [here](http
 * [VIGRA](https://github.com/ukoethe/vigra) - VIGRA is a generic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 <a name="cpp-general-purpose" />
-#### General-Purpose Machine Learning
+#### 通用机器学习 General-Purpose Machine Learning
 
-* [mlpack](http://www.mlpack.org/) - A scalable C++ machine learning library
+* [mlpack](http://www.mlpack.org/) - 一个可扩展的 C++ 机器学习库。
 * [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications
 * [encog-cpp](https://code.google.com/p/encog-cpp/)
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
@@ -158,7 +158,7 @@ For a list of free machine learning books available for download, go [here](http
 * [DeepDetect](https://github.com/beniz/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
 
 <a name="cpp-nlp" />
-#### Natural Language Processing
+#### 自然语言处理 Natural Language Processing
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 * [CRF++](https://taku910.github.io/crfpp/) - Open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data & other Natural Language Processing tasks.
 * [CRFsuite](http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields (CRFs) for labeling sequential data.
