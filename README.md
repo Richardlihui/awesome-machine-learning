@@ -1081,10 +1081,10 @@ on MNIST digits[DEEP LEARNING]
 ## Swift
 
 <a name="swift-general-purpose" />
-#### General-Purpose Machine Learning
+#### 通用机器学习 General-Purpose Machine Learning
 
-* [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
+* [Swift AI](https://github.com/collinhundley/Swift-AI) - Swift 实现的 高度优化的人工智能和机器学习库.
+* [BrainCore](https://github.com/aleph7/BrainCore) - iOS / OS X 神经网络库
 * [swix](https://github.com/scottsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
@@ -1093,5 +1093,5 @@ on MNIST digits[DEEP LEARNING]
 <a name="credits" />
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
+* 一些python库 直接 复制-粘贴 自 [vinta](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
