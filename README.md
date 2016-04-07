@@ -1,4 +1,4 @@
-# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome 机器学习 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
@@ -169,11 +169,11 @@ For a list of free machine learning books available for download, go [here](http
 * [frog](https://github.com/proycon/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
 * [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
-#### Speech Recognition
-* [Kaldi](http://kaldi.sourceforge.net/) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+#### 语音识别 Speech Recognition
+* [Kaldi](http://kaldi.sourceforge.net/) - Kaldi 是由 C++ 实现的 一个 语音识别 工具包，语音识别研究员主要使用该工具包。
 
 <a name="cpp-sequence" />
-#### Sequence Analysis
+#### 序列分析 Sequence Analysis
 * [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
 
 <a name="cpp-gestures" />
@@ -664,28 +664,28 @@ on MNIST digits[DEEP LEARNING]
 ## Python
 
 <a name="python-cv" />
-#### Computer Vision
+#### 计算机视觉 Computer Vision
 
-* [Scikit-Image](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
+* [Scikit-Image](https://github.com/scikit-image/scikit-image) - Python 实现的一个 图像处理 算法集合.
 * [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
 * [Vigranumpy](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
-* [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
+* [OpenFace](https://cmusatyalab.github.io/openface/) - 基于 深度神经网络的 免费，开源 人脸识别库.
 
 <a name="python-nlp" />
-#### Natural Language Processing
+#### 自然语言处理 Natural Language Processing
 
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 * [Quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language
 * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
 * [YAlign](https://github.com/machinalis/yalign) - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora.
-* [jieba](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
-* [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
-* [loso](https://github.com/victorlin/loso) - Another Chinese segmentation library.
-* [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
-* [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
-* [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit
-* [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
+* [jieba](https://github.com/fxsjy/jieba#jieba-1) - 中文分词工具集.
+* [SnowNLP](https://github.com/isnowfy/snownlp) - 中文 文本 处理 库 .
+* [loso](https://github.com/victorlin/loso) - 中文分词库.
+* [genius](https://github.com/duanhongyi/genius) - 基于条件随机场的 中文分词库.
+* [KoNLPy](http://konlpy.org) - 韩语 自然语言处理 Python 包.
+* [nut](https://github.com/pprett/nut) - 自然语言理解工具包
+* [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - 文本处理工具封装包 (e.g. Vowpal Wabbit)
 * [BLLIP Parser](https://pypi.python.org/pypi/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
 * [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA](http://proycon.github.io/folia/), but also ARPA language models, Moses phrasetables, GIZA++ alignments.
 * [python-ucto](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages)
@@ -696,7 +696,7 @@ on MNIST digits[DEEP LEARNING]
 * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 
 <a name="python-general-purpose" />
-#### General-Purpose Machine Learning
+#### 通用 机器学习 
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 * [XGBoost](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
